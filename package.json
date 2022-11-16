@@ -1,0 +1,23 @@
+{
+  "name": "portfoliobootstrapedwintheophilus",
+  "version": "1.0.0",
+  "description": "A portfolio sample project to learn bootstrap with Microverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egichuhis/portfolioBootstrapEdwinTheophilus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egichuhis/portfolioBootstrapEdwinTheophilus/issues"
+  },
+  "homepage": "https://github.com/egichuhis/portfolioBootstrapEdwinTheophilus#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
