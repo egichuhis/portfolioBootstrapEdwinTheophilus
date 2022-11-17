@@ -1,19 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My Portfolio Project with Microverse
+# Bootstrap Project with Microverse
 
 > Description the project.
 
 ## Built With
 
 - HTML
-- CSS
+- Bootstrap
 - Git
 - Linters (HTML&CSS)
-
-## Live Demo (if available)
-
-[Live Demo Link](https://github.com/egichuhis.github.io)
 
 ## Getting Started
 
@@ -25,16 +21,9 @@ Have git installed on your local machine/PC.
 
 ### Setup
 
-Open the terminal and run `git clone https://github.com/egichuhis/egichuhis.github.io.git`
-
-### Install
-
-Open your folder in the terminal and run `npm install`
+Open the terminal and run `git clone https://github.com/egichuhis/portfolioBootstrapEdwinTheophilus.git`
 
 ### Usage
-
-### Accessibility
-This site has been scanned for accessibility using the accessibility tool
 
 Right-click on the index.html file and open with any browser.
 
@@ -55,11 +44,17 @@ You can push your project to github using `git add .` , `git commit -m "message"
 - Twitter: [@twitterhandle](https://twitter.com/egichuhis)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edwin-gichuhi/)
 
+👤 **Theophilus Doku**
+
+- GitHub: [@githubhandle](https://github.com/theodoku)
+- Twitter: [@twitterhandle](https://twitter.com/theodoku)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theophilus-doku/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/egichuhis.github.io/issues).
+Feel free to check the [issues page](https://github.com/egichuhis/portfolioBootstrapEdwinTheophilus/issues).
 
 ## Show your support
 
