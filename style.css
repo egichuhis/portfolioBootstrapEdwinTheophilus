@@ -8,4 +8,8 @@ body::before {
     .news-input {
         width: 50%;
     }
+
+    .img-fluid {
+        width: 75%;
+    }
 }
